@@ -2,7 +2,7 @@ userInput = input("Enter a number: ")
 
 try:
     userInput = int(userInput)
-    if userInput == 1395:
+    if userInput == 1337:
         print("flag{you_entered_the_correct_number}")
     else:
         print("You did not enter the correct number")
